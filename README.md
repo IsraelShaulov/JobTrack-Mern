@@ -18,7 +18,7 @@ A Mern Full-Stack web app that helps candidates to track their job search proces
 ## Frontend Stack
 - Vite
 - React 18
-- Redux Toolkit
+- Context-API
 - React Router 6
 - Hooks
 - Styled components
